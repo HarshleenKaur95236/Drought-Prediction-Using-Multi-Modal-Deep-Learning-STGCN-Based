@@ -1,1 +1,1 @@
-# Model-trained-for-drought-prodiction
+# Model-trained-for-drought-prediction

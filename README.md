@@ -42,4 +42,6 @@ If this work contributes to your research, please cite it as:
   howpublished = {\url{https://github.com/HarshleenKaur95236/Drought-Prediction-Using-Multi-Modal-Deep-Learning-STGCN-Based.}},
   note = {Research Project, Guru Nanak Dev University}
 }
+[[image alt][https://github.com/HarshleenKaur95236/Drought-Prediction-Using-Multi-Modal-Deep-Learning-STGCN-Based/blob/7bd8177950cc0a20965c2340e8b327b2d1016af7/image_0_barren_land.png]]
+
 

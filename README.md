@@ -29,3 +29,17 @@ Requirements:
   TensorFlow 2.x
   NumPy, Pandas, Scikit-learn
   NetworkX, Matplotlib, Seaborn, GeoPandas
+
+### Citation
+
+If this work contributes to your research, please cite it as:
+
+```bibtex
+@misc{kaur2025drought,
+  author = {Harshleen Kaur},
+  title = {Drought Prediction Using Multi-Modal Deep Learning (STGCN-Based)},
+  year = {2025},
+  howpublished = {\url{https://github.com/HarshleenKaur95236/Drought-Prediction-Using-Multi-Modal-Deep-Learning-STGCN-Based.}},
+  note = {Research Project, Guru Nanak Dev University}
+}
+

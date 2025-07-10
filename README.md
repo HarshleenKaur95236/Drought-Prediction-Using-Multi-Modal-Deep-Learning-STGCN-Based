@@ -4,7 +4,10 @@ Overview:
 
   
 Highlights:
-  Combines satellite imagery (RGB/NIR), time-series climate indicators (temperature, rainfall, NDVI), and tabular data (soil type, land use). Designed to handle class imbalance with weighted loss functions and data augmentation. Uses STGCN architecture to capture spatio-temporal interactions for drought prediction. Offers explainability via saliency maps, SHAP values, and attention heatmaps.
+  Combines satellite imagery (RGB/NIR), time-series climate indicators (temperature, rainfall, NDVI), and tabular data (soil type, land use).
+  Designed to handle class imbalance using weighted loss functions and advanced data augmentation techniques.
+  Employs STGCN to learn both spatial and temporal interactions for more robust prediction.
+
 
   
 Dataset:

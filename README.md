@@ -15,7 +15,7 @@ Offers explainability using:
   Attention Heatmaps
 
   
-Dataset:
+Dataset
   Image Count: 5,110 (28x28, RGB/NIR) 
   Drought Class: 4.9% 
   Time-Series Features: Temperature, rainfall, NDVI, soil moisture, humidity 

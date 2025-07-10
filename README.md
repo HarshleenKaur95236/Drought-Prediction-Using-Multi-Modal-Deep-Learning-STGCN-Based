@@ -8,11 +8,12 @@ Highlights:
 
   
 Dataset:
-  Image Count: 5,110 (28x28, RGB/NIR)
-  Drought Class: 4.9%
-  Time-Series Features: Temperature, rainfall, NDVI, soil moisture, humidity
-  Tabular Features: Land use, elevation, soil type
+  Image Count: 5,110 (28x28, RGB/NIR) 
+  Drought Class: 4.9% 
+  Time-Series Features: Temperature, rainfall, NDVI, soil moisture, humidity 
+  Tabular Features: Land use, elevation, soil type 
   Source: MODIS, Sentinel-2, meteorological stations (public data only)
+  
 
 Model Architecture:
   +----------------+     +-------------------+     +----------------------+

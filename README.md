@@ -1,6 +1,7 @@
 # Model-trained-for-drought-prediction
-Overview:
-  This project presents a multi-modal deep learning architecture for predicting hydrological droughts using satellite imagery, environmental time-series data, and contextual tabular features. The      model leverages Spatio-Temporal Graph Convolutional Networks (STGCNs) to capture both spatial dependencies and temporal dynamics across interconnected regions.
+Overview: 
+  This project presents a multi-modal deep learning architecture for predicting hydrological droughts using satellite imagery, environmental time-series data, and contextualtabular features. The model leverages Spatio-Temporal Graph Convolutional Networks (STGCNs) to capture both spatial dependencies and temporal dynamics across    interconnected regions.
+
   
 Highlights:
   Combines satellite imagery (RGB/NIR), time-series climate indicators (temperature, rainfall, NDVI), and tabular data (soil type, land use).

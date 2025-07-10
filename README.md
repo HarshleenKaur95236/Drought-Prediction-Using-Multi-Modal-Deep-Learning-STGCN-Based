@@ -24,6 +24,8 @@ Model Architecture:
 | Tabular FNN    | --> | Feature Vector     |     |                      |
 +----------------+     +-------------------+     +----------------------+
 
+
+
 Requirements:
   Python 3.9+
   TensorFlow 2.x
